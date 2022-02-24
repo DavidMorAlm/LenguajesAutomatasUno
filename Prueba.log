@@ -70,10 +70,10 @@ Contador | Identificador
 adios | Identificador
 ; | FinSentencia
 350 | Numero
-350.895 | Numero
-350E-46 | Numero
-350E46 | Numero
-356E+46 | Numero
-350.895E-46 | Numero
-350.895E+46 | Numero
+Error léxico: Se espera un dígito.
+Error léxico: Se espera un dígito.
+Error léxico: Se espera un dígito.
+Error léxico: Se espera un dígito.
+Error léxico: Se espera un dígito.
+Error léxico: Se espera un dígito.
 Error léxico: Se espera un dígito.
