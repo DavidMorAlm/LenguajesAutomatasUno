@@ -76,4 +76,4 @@ adios | Identificador
 356E+46 | Numero
 350.895E-46 | Numero
 350.895E+46 | Numero
-Error léxico: Se espera un dígito.
+350.895E46 | Numero

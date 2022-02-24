@@ -39,5 +39,5 @@
 	356E+46 //Exponencial positivo cos signo
 	350.895E-46     //Exponenial negativo con signo y parte decimal
 	350.895E+46     //Exponencial positivo con signo y con parte decimal
-        350.895E      //Exponencial positivo sin signo y con parte decimal
+        350.895E46      //Exponencial positivo sin signo y con parte decimal
         //fin del programa 
