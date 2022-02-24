@@ -129,7 +129,7 @@ namespace Lexico_0
                     else
                     {
                         Log.WriteLine("Error léxico: Se espera un dígito.");
-                        Console.WriteLine("Error léxico: Se espera un dígito.");
+                        Console.WriteLine("Error léxico: Se espera un número.");
                         return;
                     }
                 }
